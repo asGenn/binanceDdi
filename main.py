@@ -38,7 +38,7 @@ while True:
         if url is not None and "/tr/feed/post" in url:
             url_list.append(url)
             print(url)
-
+        
     # Sayfa en altına kaydır
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     cnt += 1
