@@ -85,7 +85,7 @@ clf.score(X_test, y_test)
 clf = DecisionTreeClassifier(criterion="entropy", max_depth=5)
 scores = cross_val_score(clf, X_train, y_train, cv=5)
 parameters = {"criterion": ["entropy", "gini", "log_loss"],
-              "max_depth": range(2, 100)}
+              "max_depth": range(2, 6)}
 
 clf = GridSearchCV(DecisionTreeClassifier(), parameters,
                    cv=5, n_jobs=4, verbose=3)
