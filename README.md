@@ -56,7 +56,7 @@ Veri seti'ndeki kolonlarımız aşağıdaki gibidir:<br/>
 
 # Haberlerin Temizlenmesi ve Lemmatization İşlemi<br/>
 
-Veriseti oluşturulduktan sonra modelin daha iyi çalışması ve başarı oranının daha yüksek olması için tweetlerin temizlenmesi gerekmektedir. Haberlerin içerisinde emojiler, noktalama işaretleri, stopwordsler, linkler gibi istenmeyen ve modelin başarısını düşürecek veriler tweetlerin içerisinden temizleniyor. Daha sonra lemmatization (kelimelerin köklerinin alınması) işlemi yapılarak temiz ve kelimelerin köklerinden oluşan tweetler elde ediliyor.
+Veriseti oluşturulduktan sonra modelin daha iyi çalışması ve başarı oranının daha yüksek olması için haberlerin temizlenmesi gerekmektedir. Haberlerin içerisinde emojiler, noktalama işaretleri, stopwordsler, linkler gibi istenmeyen ve modelin başarısını düşürecek veriler haberler içerisinden temizleniyor. Daha sonra lemmatization (kelimelerin köklerinin alınması) işlemi yapılarak temiz ve kelimelerin köklerinden oluşan haberler elde ediliyor.
 <br/><br/>
 
 ### Oluşturulan Temiz Haber Görseli<br/><br/>
