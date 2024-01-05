@@ -68,7 +68,7 @@ Veriseti oluşturulduktan sonra modelin daha iyi çalışması ve başarı oran�
 
 ## Model Seçimi
 
-Yapılacak kategorilendirme işleminin hangi modelde daha yüksek başarı oranı vereceğini tespit etmek amacıyla araştırma yapılıp aynı zamanda bazı modeller üzerinde de test edilmiştir. Başlangıç olarak 3 popüler model üzerinde denemeler yapılmıştır. Bu modeller Naive Bayes, DecitionTree ve K-Nearest Neighbor modelidir. Veriseti üzerinde bu modellerin accuracy ve f1 score ları test edilmiştir. Projedeki test veriseti sonuçlarına bakıldığında:<br/>
+Yapılacak kategorilendirme işleminin hangi modelde daha yüksek başarı oranı vereceğini tespit etmek amacıyla araştırma yapılıp aynı zamanda bazı modeller üzerinde de test edilmiştir. Başlangıç olarak 3 popüler model üzerinde denemeler yapılmıştır. Bu modeller Naive Bayes, DecitionTree ve Support Vector Machine modelidir. Veriseti üzerinde bu modellerin accuracy ve f1 score ları test edilmiştir. Projedeki test veriseti sonuçlarına bakıldığında:<br/>
 
 ![Ekran görüntüsü 2024-01-05 172230](https://github.com/asGenn/binanceDdi/assets/109176905/3187ee14-e2f3-4b3f-a5fc-f457d3c4203b)
 
